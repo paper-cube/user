@@ -1,0 +1,16 @@
+{
+    "name": "paper-cube/user",
+    "description": "Yii 2 User module",
+    "keywords": ["yii2", "framework", "user", "module"],
+    "homepage": "https://github.com/paper-cube/user/wiki",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/paper-cube/user/issues?state=open",
+        "wiki": "https://github.com/paper-cube/user/wiki",
+        "source": "https://github.com/paper-cube/user"
+    },
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+}
