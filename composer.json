@@ -3,7 +3,7 @@
     "description": "Yii 2 User module",
     "keywords": ["yii2", "framework", "user", "module"],
     "homepage": "https://github.com/paper-cube/user/wiki",
-    "type": "yii2-extension",
+    "type": "library",
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/paper-cube/user/issues?state=open",
